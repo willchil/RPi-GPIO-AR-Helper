@@ -11,6 +11,7 @@
 		3DB6363426520A89001F3E29 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB6363326520A89001F3E29 /* ContentView.swift */; };
 		3DB6363626520A8C001F3E29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DB6363526520A8C001F3E29 /* Assets.xcassets */; };
 		3DB6363926520A8C001F3E29 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DB6363826520A8C001F3E29 /* Preview Assets.xcassets */; };
+		3DB6364126520AF7001F3E29 /* RealityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DB6364026520AF7001F3E29 /* RealityView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3DB6363526520A8C001F3E29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DB6363826520A8C001F3E29 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3DB6363A26520A8C001F3E29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DB6364026520AF7001F3E29 /* RealityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealityView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3DB6363126520A89001F3E29 /* RPi_GPIO_AR_HelperApp.swift */,
 				3DB6363326520A89001F3E29 /* ContentView.swift */,
+				3DB6364026520AF7001F3E29 /* RealityView.swift */,
 				3DB6363526520A8C001F3E29 /* Assets.xcassets */,
 				3DB6363A26520A8C001F3E29 /* Info.plist */,
 				3DB6363726520A8C001F3E29 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3DB6363426520A89001F3E29 /* ContentView.swift in Sources */,
+				3DB6364126520AF7001F3E29 /* RealityView.swift in Sources */,
 				3DB6363226520A89001F3E29 /* RPi_GPIO_AR_HelperApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
